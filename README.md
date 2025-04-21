@@ -1,6 +1,3 @@
-# cs-250-software-development-lifecycle
-Final project and reflection for CS-250: Software Development Lifecycle, SNHU Computer Science program.
-
 # CS-250: Software Development Lifecycle
 
 This repository contains my final project for CS-250: Software Development Lifecycle, a course in the SNHU Computer Science program. It includes my Sprint Review & Retrospective, which reflects on the Agile and Scrum practices applied throughout the course.
