@@ -2,6 +2,8 @@
 
 ## Sprint Review and Retrospective
 
+📄 [View Sprint Review and Retrospective (PDF)](Sprint_Review_and_Retrospective.pdf)
+
 This repository contains my Sprint Review and Retrospective from CS-250: Software Development Lifecycle. The project was part of a simulated Agile environment in which I took on all four Scrum roles—Scrum Master, Product Owner, Developer, and Tester—while developing the SNHU Travel application. This final reflection highlights my experience across roles and demonstrates how Agile principles shaped each phase of the project.
 
 ## Reflection
