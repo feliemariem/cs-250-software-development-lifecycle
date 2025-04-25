@@ -14,7 +14,9 @@ Even in a simulated environment, it was clear that strong communication makes or
 
 Through each role, I learned that being a good team member in software development isn’t just about completing tasks—it’s about listening, asking the right questions, and helping the team move forward together. The Scrum framework provided the rhythm and accountability needed to stay focused, while tools like a Trello-style board helped visualize progress and support backlog discussions. 
 
-This experience reaffirmed that I want to carry Agile into future projects. It’s not just a methodology—it’s a mindset of adaptability, collaboration, and continuous improvement. Whether I’m developing software or leading a team, I plan to build with the user in mind, deliver value iteratively, and create space for feedback at every stage.
+This experience reaffirmed that I want to carry Agile into future projects. It’s not just a methodology—it’s a mindset of adaptability, collaboration, and continuous improvement. 
+
+Whether I’m developing software or leading a team, I plan to build with the user in mind, deliver value iteratively, and create space for feedback at every stage.
 
 
 
